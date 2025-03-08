@@ -19,8 +19,8 @@ My main focus is on integrating data science with electrical engineering to deve
 - Innovate and prototype new features in antenna design and 3D modeling.
 
 ## 📫 How to Reach Me
-- Email: [herianperdana68@gmail.com](mailto:herian.perdana@example.com)
-- LinkedIn: [Herian Perdana](https://linkedin.com/in/herianperdana)
+- Email: [herianperdana68@gmail.com](mailto:herianperdana68@gmail.com)
+- LinkedIn: [Herian Perdana](https://www.linkedin.com/in/herian-perdana-16b22a22a/)
 
 ## 💡 Projects
 Here are a few projects I'm currently working on:
