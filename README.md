@@ -88,7 +88,14 @@ Focused on edge computing, real-time vision systems, and hybrid IoT development.
 - 🔸 Secure OTA update for IoT devices  
 - 🔸 Edge vision pipeline optimization  
 - 🔸 Linux system customization for RZ/V2H  
-
+---
+## 🐍 Contribution
+<p align="center">
+  <img src="https://raw.githubusercontent.com/herian-22/herian-22/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+</p>
+<p align="center">
+  <b>🗓️ Updated: <span id="date">November 2025</span></b>
+</p>
 ---
 ### 📫 Contact Me
 <p align="center">
@@ -96,10 +103,7 @@ Focused on edge computing, real-time vision systems, and hybrid IoT development.
   <a href="https://linkedin.com/in/herian-22"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-## 🐍 Contribution
-<p align="center">
-  <img src="https://github.com/herian-22/herian-22/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer)
 
