@@ -94,7 +94,7 @@ Focused on edge computing, real-time vision systems, and hybrid IoT development.
   <img src="https://raw.githubusercontent.com/herian-22/herian-22/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </p>
 <p align="center">
-  <b>🗓️ Updated: <span id="date">November 2025</span>
+  <b>🗓️ Updated: <span id="date">November 2025</span></b>
 </p>
 
 
