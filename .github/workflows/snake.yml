@@ -45,8 +45,17 @@ jobs:
         run: |
           CURRENT_DATE=$(date +"%B %Y")
           echo "Updating date to $CURRENT_DATE"
+
+          # Set identity for commit
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Replace date text
           sed -i 's|<span id="date">[^<]*</span>|<span id="date">'"$CURRENT_DATE"'</span>|' README.md
+
+          # Commit & push
           git add README.md
           git commit -m "Update date automatically: ${CURRENT_DATE}" || echo "No changes"
           git push
+
 
