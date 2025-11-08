@@ -1,31 +1,32 @@
-# Hi there, I'm Herian Perdana! 👋
+Halo! Selamat datang di profil GitHub saya 👋
 
-### Bachelor Of Electrical Engineering | Data Analyst | 3D Designer | Antenna Specialist | Embedded System Enthusiast
+<p align="center">
+<img src="images\foto-herian.jpg" alt="Herian Perdana" width="200" style="border-radius: 50%;">
+</p>
 
-I'm an **Electrical Engineer** with a solid background in instrumentation and control systems. My technical journey has taken me through a diverse range of disciplines from **data analysis**, **3D design**, **antenna technology**, to **electrical circuit design**. I am adept in using MATLAB, Arduino, and various electrical design software, striving to solve complex problems and drive innovation within the tech industry.
+<div align="center">
 
-My main focus is on integrating data science with electrical engineering to develop advanced, cutting-edge solutions. Here’s a quick overview of my core technical skills and activities:
+Saya Herian Perdana, seorang Embedded System & AI Engineer dari Indonesia.
 
-## 🔧 Technologies & Tools
-- **Programming Languages:** C, C++, Python
-- **Microcontrollers and Microprocessors:** STM32, ESP32, Raspberry Pi
-- **Software & Tools:** MATLAB, AutoCAD, Arduino IDE
-- **Operating Systems:** Windows, Linux
+Saya bersemangat menggabungkan perangkat keras tertanam dengan AI untuk menciptakan solusi industri yang cerdas dan aman.
 
-## 🚀 Some Things I Do
-- Develop firmware for embedded devices.
-- Implement real-time algorithms for RTOS-based systems.
-- Collaborate with hardware teams to ensure seamless firmware integration with physical devices.
-- Innovate and prototype new features in antenna design and 3D modeling.
+✨ Portofolio Lengkap Saya ✨
 
-## 📫 How to Reach Me
-- Email: [herianperdana68@gmail.com](mailto:herianperdana68@gmail.com)
-- LinkedIn: [Herian Perdana](https://www.linkedin.com/in/herian-perdana-16b22a22a/)
+Untuk melihat daftar proyek, pengalaman, dan keahlian saya secara mendetail, silakan kunjungi website portofolio baru saya!
 
-## 💡 Projects
-Here are a few projects I'm currently working on:
-- **Smart Antenna Design:** Designing antennas with enhanced signal reception using machine learning techniques.
-- **RTOS for IoT Devices:** Developing robust firmware for IoT applications using real-time operating systems.
-- **3D Printed Electronics Enclosures:** Creating custom 3D designs for electronic device housings.
+➡️ https://herian-22.github.io
 
-Feel free to check out my repositories and don't hesitate to reach out if you think we could work together on a project!
+(Klik link di atas untuk melihat situs lengkap)
+
+🔗 Hubungi Saya:
+
+<p>
+<a href="https://www.linkedin.com/in/herian-perdana-16b22a22a" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://www.google.com/search?q=https://herian-22.github.io" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-4f46e5%3Fstyle%3Dfor-the-badge%26logo%3DAbout.me%26logoColor%3Dwhite" alt="Portfolio"/>
+</a>
+</p>
+</div>
