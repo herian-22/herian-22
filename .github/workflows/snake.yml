@@ -21,8 +21,9 @@ jobs:
 
       - name: Add timestamp
         run: |
-          mkdir -p dist
-          echo "🗓️ $(date '+%B %Y')" > dist/date.txt
+          mkdir -p ./dist
+          sudo chmod -R 777 ./dist
+          echo "🗓️ $(date '+%B %Y')" > ./dist/date.txt
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
