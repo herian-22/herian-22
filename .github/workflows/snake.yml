@@ -20,7 +20,9 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#1DA1F2
 
       - name: Add timestamp
-        run: echo "🗓️ $(date '+%B %Y')" > dist/date.txt
+        run: |
+          mkdir -p dist
+          echo "🗓️ $(date '+%B %Y')" > dist/date.txt
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
