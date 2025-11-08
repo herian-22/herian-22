@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: "0 0 * * *" 
   workflow_dispatch:
-  
+
 permissions:
   contents: write
 
@@ -41,11 +41,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
   
-      - name: Commit and push changes
+      - name: Update date in README
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          CURRENT_DATE=$(date +"%B %Y")
+          echo "Updating date to $CURRENT_DATE"
+          sed -i 's|<span id="date">[^<]*</span>|<span id="date">'"$CURRENT_DATE"'</span>|' README.md
           git add README.md
-          git commit -m "Update date automatically: $(date '+%B %Y')" || echo "No changes"
+          git commit -m "Update date automatically: ${CURRENT_DATE}" || echo "No changes"
           git push
 

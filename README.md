@@ -94,9 +94,10 @@ Focused on edge computing, real-time vision systems, and hybrid IoT development.
   <img src="https://raw.githubusercontent.com/herian-22/herian-22/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </p>
 <p align="center">
-  <b>🗓️ Updated: <span id="date">November 2025</span></b>
+  <b>🗓️ Updated: <span id="date">November 2025</span>
 </p>
----
+
+
 ### 📫 Contact Me
 <p align="center">
   <a href="mailto:herianperdana22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
