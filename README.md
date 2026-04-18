@@ -54,27 +54,27 @@ Focused on edge computing, real-time vision systems, and hybrid IoT development.
 - 🔹 [MRAC-Simulation-2dof](https://github.com/herian-22/MRAC-Simulation-2dof)
 - 🔹 [Web-mqtt-python-backend](https://github.com/herian-22/Web-mqtt-python-backend)
 - 🔹 [tinyML-Federate-learning](https://github.com/herian-22/tinyML-Federate-learning)
-- 🔹 [portfolio-herian](https://github.com/herian-22/portfolio-herian) — Portfolio Herian-Perdana
-- 🔹 [skills-introduction-to-github-1](https://github.com/herian-22/skills-introduction-to-github-1) — Exercise: Introduction to GitHub
-- 🔹 [skills-introduction-to-github](https://github.com/herian-22/skills-introduction-to-github) — My clone repository
+- 🔹 [portfolio-herian](https://github.com/herian-22/portfolio-herian)
+- 🔹 [skills-introduction-to-github-1](https://github.com/herian-22/skills-introduction-to-github-1)
+- 🔹 [skills-introduction-to-github](https://github.com/herian-22/skills-introduction-to-github)
 - 🔹 [learning](https://github.com/herian-22/learning)
 - 🔹 [herian-22](https://github.com/herian-22/herian-22)
 - 🔹 [cps-sistemhybrid](https://github.com/herian-22/cps-sistemhybrid)
 - 🔹 [Renenas-drp-opencva](https://github.com/herian-22/Renenas-drp-opencva)
-- 🔹 [app-smartcop](https://github.com/herian-22/app-smartcop) — app
+- 🔹 [app-smartcop](https://github.com/herian-22/app-smartcop)
 - 🔹 [dashboard-mqtt-IoT](https://github.com/herian-22/dashboard-mqtt-IoT)
 - 🔹 [Acumen-2016](https://github.com/herian-22/Acumen-2016)
 - 🔹 [opencv-windows](https://github.com/herian-22/opencv-windows)
 - 🔹 [Yolo_CPP](https://github.com/herian-22/Yolo_CPP)
 - 🔹 [esp32platformIO](https://github.com/herian-22/esp32platformIO)
-- 🔹 [yocto-project](https://github.com/herian-22/yocto-project) — yocto-project for renesas rzv2h image
+- 🔹 [yocto-project](https://github.com/herian-22/yocto-project)
 - 🔹 [esp-32-micropython](https://github.com/herian-22/esp-32-micropython)
 - 🔹 [occupancy-system](https://github.com/herian-22/occupancy-system)
 - 🔹 [mqtt-web-control](https://github.com/herian-22/mqtt-web-control)
 - 🔹 [project-desecopenigma-vulnbank](https://github.com/herian-22/project-desecopenigma-vulnbank)
-- 🔹 [contact-manager](https://github.com/herian-22/contact-manager) — aplikasi manajemen daftar kontak berbasis GLib dan GObject di C
+- 🔹 [contact-manager](https://github.com/herian-22/contact-manager)
 - 🔹 [project](https://github.com/herian-22/project)
-- 🔹 [RTSPstreaming](https://github.com/herian-22/RTSPstreaming) — aplikasi GTK3 + GStreamer untuk RTSP video streaming
+- 🔹 [RTSPstreaming](https://github.com/herian-22/RTSPstreaming)
 - 🔹 [gstreamgtk](https://github.com/herian-22/gstreamgtk)
 - 🔹 [ArduinoProject](https://github.com/herian-22/ArduinoProject)
 
