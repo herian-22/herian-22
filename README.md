@@ -47,14 +47,36 @@ Focused on edge computing, real-time vision systems, and hybrid IoT development.
 
 ---
 
-## 💡 Featured Projects  
+## 📂 Repository List (All Repositories)
 
-- 🔹 [Coffee Machine AI - DRP-AI & ONNX Runtime](https://github.com/herian-22/coffee-machine-project-for-UCHI)  
-  *AI-based object detection using DRP-AI accelerator for RZ/V2H SoC.*
-- 🔹 [Smart Water Level Control for Boiler](https://github.com/herian-22/boiler-level-controller)  
-  *IoT-based automatic control system for industrial boiler water levels.*
-- 🔹 [ESP32 Hybrid IoT System](https://github.com/herian-22/esp32-hybrid-iot)  
-  *Low-power IoT node combining solar and battery operation.*
+- 🔹 [smart-coop-analysis](https://github.com/herian-22/smart-coop-analysis)
+- 🔹 [Mochi-robot-temperature](https://github.com/herian-22/Mochi-robot-temperature)
+- 🔹 [MRAC-Simulation-2dof](https://github.com/herian-22/MRAC-Simulation-2dof)
+- 🔹 [Web-mqtt-python-backend](https://github.com/herian-22/Web-mqtt-python-backend)
+- 🔹 [tinyML-Federate-learning](https://github.com/herian-22/tinyML-Federate-learning)
+- 🔹 [portfolio-herian](https://github.com/herian-22/portfolio-herian) — Portfolio Herian-Perdana
+- 🔹 [skills-introduction-to-github-1](https://github.com/herian-22/skills-introduction-to-github-1) — Exercise: Introduction to GitHub
+- 🔹 [skills-introduction-to-github](https://github.com/herian-22/skills-introduction-to-github) — My clone repository
+- 🔹 [learning](https://github.com/herian-22/learning)
+- 🔹 [herian-22](https://github.com/herian-22/herian-22)
+- 🔹 [cps-sistemhybrid](https://github.com/herian-22/cps-sistemhybrid)
+- 🔹 [Renenas-drp-opencva](https://github.com/herian-22/Renenas-drp-opencva)
+- 🔹 [app-smartcop](https://github.com/herian-22/app-smartcop) — app
+- 🔹 [dashboard-mqtt-IoT](https://github.com/herian-22/dashboard-mqtt-IoT)
+- 🔹 [Acumen-2016](https://github.com/herian-22/Acumen-2016)
+- 🔹 [opencv-windows](https://github.com/herian-22/opencv-windows)
+- 🔹 [Yolo_CPP](https://github.com/herian-22/Yolo_CPP)
+- 🔹 [esp32platformIO](https://github.com/herian-22/esp32platformIO)
+- 🔹 [yocto-project](https://github.com/herian-22/yocto-project) — yocto-project for renesas rzv2h image
+- 🔹 [esp-32-micropython](https://github.com/herian-22/esp-32-micropython)
+- 🔹 [occupancy-system](https://github.com/herian-22/occupancy-system)
+- 🔹 [mqtt-web-control](https://github.com/herian-22/mqtt-web-control)
+- 🔹 [project-desecopenigma-vulnbank](https://github.com/herian-22/project-desecopenigma-vulnbank)
+- 🔹 [contact-manager](https://github.com/herian-22/contact-manager) — aplikasi manajemen daftar kontak berbasis GLib dan GObject di C
+- 🔹 [project](https://github.com/herian-22/project)
+- 🔹 [RTSPstreaming](https://github.com/herian-22/RTSPstreaming) — aplikasi GTK3 + GStreamer untuk RTSP video streaming
+- 🔹 [gstreamgtk](https://github.com/herian-22/gstreamgtk)
+- 🔹 [ArduinoProject](https://github.com/herian-22/ArduinoProject)
 
 ---
 
@@ -107,4 +129,3 @@ Focused on edge computing, real-time vision systems, and hybrid IoT development.
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer)
-
